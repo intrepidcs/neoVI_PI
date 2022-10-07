@@ -1,6 +1,6 @@
 # Software Setup
 
-### 4. **Build libicsneo project and link libicsneoleagacy.so file to your Python project.** <a href="#c893" id="c893"></a>
+### 5. **Build libicsneo project and link libicsneoleagacy.so file to your Python project.** <a href="#c893" id="c893"></a>
 
 Open **Terminal**
 

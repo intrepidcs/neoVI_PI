@@ -1,6 +1,6 @@
 # Reference: Connector Pinouts and Cable Signal Mappings
 
-### 5. Reference: Connector Pinouts and Cable Signal Mappings
+### 6. Reference: Connector Pinouts and Cable Signal Mappings
 
 <figure><img src=".gitbook/assets/22.jpg" alt=""><figcaption></figcaption></figure>
 

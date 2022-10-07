@@ -1,5 +1,7 @@
 # How to flash the neoVI PI CM4
 
+### 4. How to flash the neoVI PI CM4
+
 imaaThis step by step guide will walk you through how to flash the CM4, overclock and run supertuxkart on it. Steps 1 - 4 are flashing and programming the CM4. Steps 5 and 6 are installing supertuxkart.
 
 **Step 1. Getting the Hardware Ready**
