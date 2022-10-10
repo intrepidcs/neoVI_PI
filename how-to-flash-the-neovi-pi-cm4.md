@@ -2,7 +2,7 @@
 
 ### 4. How to flash the neoVI PI CM4
 
-imaaThis step by step guide will walk you through how to flash the CM4, overclock and run supertuxkart on it. Steps 1 - 4 are flashing and programming the CM4. Steps 5 and 6 are installing supertuxkart.
+imaa This step by step guide will walk you through how to flash the CM4, overclock and run supertuxkart on it. Steps 1 - 4 are flashing and programming the CM4. Steps 5 and 6 are installing supertuxkart.
 
 **Step 1. Getting the Hardware Ready**
 
@@ -85,4 +85,8 @@ Since we want the game to run as smoothly as possible, we want to dedicate memor
 
 **Notes for Supertuxkart:**
 
-\*In the graphics tab in settings turn graphics down all the way, and geometry detail to disabled. \*Turn full screen on \*Avoid fish level \*Avoid levels with detail \*Don’t need to make an online account to play together over Meteors or LAN. Just need to enable internet connection in the game’s settings. (It's just a checkbox)
+* In the graphics tab in settings turn graphics down all the way, and geometry detail to disabled.&#x20;
+* Turn full screen on&#x20;
+* Avoid fish level&#x20;
+* Avoid levels with detail
+* Don’t need to make an online account to play together over Meteors or LAN. Just need to enable internet connection in the game’s settings. (It's just a checkbox)
