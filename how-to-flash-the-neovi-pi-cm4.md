@@ -2,11 +2,15 @@
 
 ### 4. How to flash the neoVI PI CM4
 
-imaa This step by step guide will walk you through how to flash the CM4, overclock and run supertuxkart on it. Steps 1 - 4 are flashing and programming the CM4. Steps 5 and 6 are installing supertuxkart.
+This step by step guide will walk you through how to flash the CM4, overclock and run supertuxkart on it. Steps 1 - 4 are flashing and programming the CM4. Steps 5 and 6 are installing supertuxkart.
 
 **Step 1. Getting the Hardware Ready**
 
 The first thing we need to do is prepare the neoVI-Pi for flashing. Plug in a CM4 module underneath the motherboard. Make sure the holes line up because you can plug them in backwards. Press hard so that both connectors make a distinct click sound. The metal standoffs on the motherboard should look like they are touching the CM4. Then we need to flip it back over and turn switch number 5 on the dip switch to the “ON” position. See image below.
+
+{% hint style="info" %}
+#### **Note:** Connect the IO board to the RPI using the microUSB cable. This step is only necessary if you have purchased the IO board and RPI separately. If you have purchased the entire package, skip to step 2
+{% endhint %}
 
 **Step 2. Installing Necessary Software**
 
@@ -14,7 +18,9 @@ If you already have the required software, then skip this step and move to step 
 
 RPIboot.exe: [https://www.raspberrypi.com/documentation/computers/compute-module.html](https://www.raspberrypi.com/documentation/computers/compute-module.html)
 
-****
+{% hint style="info" %}
+#### Note: If you are having trouble with your keyboard and mouse not working during the setup process, this may be because the microUSB port being used by the RPI is disabling the USB 2.0 ports that are used to connect your peripherals. To fix this issue, connect your keyboard and mouse to the USB 3.0 ports instead.
+{% endhint %}
 
 **Windows Installer**
 
