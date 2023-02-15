@@ -23,7 +23,7 @@ For those who just want to enable the Compute Module eMMC as a mass storage devi
 Please ensure you are not writing to any USB devices whilst the installer is running.
 
 1. Download and run the [Windows installer](https://github.com/raspberrypi/usbboot/raw/master/win32/rpiboot\_setup.exe) to install the drivers and boot tool.
-2. Plug your host PC USB into the USB SLAVE port, making sure you have setup the board as described above.
+2. Plug your **host PC USB** into the **USB SLAVE port**, making sure you have setup the board as described above.
 3. Apply power to the board; Windows should now find the hardware and install the driver.
 4. Once the driver installation is complete, run the `RPiBoot.exe` tool that was previously installed.
 5. After a few seconds, the Compute Module eMMC will pop up under Windows as a disk (USB mass storage device).
