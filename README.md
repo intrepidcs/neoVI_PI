@@ -4,9 +4,9 @@ description: Robust and Open Raspberry PI 4 Platform for Automotive
 
 # neoVI PI
 
-<figure><img src=".gitbook/assets/neo-VIPI_3Quarter.png" alt=""><figcaption></figcaption></figure>
-
-
+{% embed url="https://youtu.be/Z0GjIzIJ0no" %}
+neoVI PI — A Guided Tour
+{% endembed %}
 
 ### Contents:
 
