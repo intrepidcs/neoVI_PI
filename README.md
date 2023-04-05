@@ -16,7 +16,7 @@ neoVI PI — A Guided Tour
 
 ### **3.** [**A Tour of neoVI PI Hardware**](a-tour-of-neovi-pi-hardware.md)****
 
-### 4. [How to flash the neoVI PI CM4](how-to-flash-the-neovi-pi-cm4/)
+### 4. [How to flash the neoVI PI CM4](how-to-flash-the-neovi-pi-cm4.md)
 
 ### **5.** [Software Setup](software-setup/)
 
