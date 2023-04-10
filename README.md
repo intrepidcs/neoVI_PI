@@ -10,17 +10,19 @@ neoVI PI — A Guided Tour
 
 ### Contents:
 
-### **1.** [**Safety and Other Important Notices**](safety-and-other-important-notices.md)****
+### **1.** [**Safety and Other Important Notices**](safety-and-other-important-notices.md)
 
-### **2.** [**Introduction and Overview**](introduction-and-overview.md)****
+### **2.** [**Introduction and Overview**](introduction-and-overview.md)
 
-### **3.** [**A Tour of neoVI PI Hardware**](a-tour-of-neovi-pi-hardware.md)****
+### **3.** [**A Tour of neoVI PI Hardware**](a-tour-of-neovi-pi-hardware.md)
 
-### 4. [How to flash the neoVI PI CM4](how-to-flash-the-neovi-pi-cm4.md)
+### **4.** [How to flash the neoVI PI CM4](how-to-flash-the-neovi-pi-cm4.md)
 
-### **5.** [Software Setup](software-setup/)
+### **5.** [How to Disassemble & Reassemble neoVI PI](disassemble-and-reassemble-neovi-pi.md)
 
-### **6.** [Reference: Connector Pinouts and Cable Signal Mappings](reference-connector-pinouts-and-cable-signal-mappings.md)
+### **6.** [Software Setup](software-setup/)
 
-### 7. [Support Contact Information](support-contact-information.md)
+### **7.** [Reference: Connector Pinouts and Cable Signal Mappings](reference-connector-pinouts-and-cable-signal-mappings.md)
+
+### **8.** [Support Contact Information](support-contact-information.md)
 
