@@ -1,6 +1,6 @@
 # Software Setup
 
-### 5. **Build libicsneo project and link libicsneoleagacy.so file to your Python project.** <a href="#c893" id="c893"></a>
+### 6. **Build libicsneo project and link libicsneoleagacy.so file to your Python project.** <a href="#c893" id="c893"></a>
 
 Open **Terminal**
 
@@ -16,7 +16,8 @@ Check to see if you have install all dependencies
 
 <pre class="language-bash"><code class="lang-bash">cd libicsneo/
 <strong>git submodule update — recursive — init
-</strong>sudo apt install build-essential ninja cmake libusb</code></pre>
+</strong>sudo apt install build-essential ninja cmake libusb
+</code></pre>
 
 <figure><img src="../.gitbook/assets/1_I2zy9GTN-igUQo8x1LWcMw (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +43,7 @@ or
 sudo pip3 install python_ics
 ```
 
-Create a new Python project and copy paste the example code from the python\_ics or you can download the **open\_device\_example.py** from github page **** [https://github.com/intrepidcs/python\_ics/blob/master/examples/open\_device\_example.py](https://github.com/intrepidcs/python\_ics/blob/master/examples/open\_device\_example.py)
+Create a new Python project and copy paste the example code from the python\_ics or you can download the **open\_device\_example.py** from github page [https://github.com/intrepidcs/python\_ics/blob/master/examples/open\_device\_example.py](https://github.com/intrepidcs/python\_ics/blob/master/examples/open\_device\_example.py)
 
 Open **Python IDE** and **link libicsneolegacy.so** by adding this line at the top of your script
 

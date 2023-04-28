@@ -4,6 +4,10 @@
 
 This step by step guide will walk you through how to flash the CM4, overclock and run supertuxkart on it. Steps 1 - 4 are flashing and programming the CM4. Steps 5 and 6 are installing supertuxkart.
 
+{% hint style="info" %}
+**Note: Intrepid unit with CM4 comes with OS pre installed with switch to ON position by default.**
+{% endhint %}
+
 **Step 1. Getting the Hardware Ready**
 
 The first thing we need to do is prepare the neoVI-Pi for flashing. Plug in a CM4 module underneath the motherboard. Make sure the holes line up because you can plug them in backwards. Press hard so that both connectors make a distinct click sound. The metal standoffs on the motherboard should look like they are touching the CM4. Then we need to flip it back over and turn switch number 5 on the dip switch to the “ON” position. See image below.
@@ -40,7 +44,7 @@ Raspberry Pi Imager: [https://www.raspberrypi.com/software/](https://www.raspber
 
 Once you have the software installed, flashing the PI is easy. Take a USB cable and plug in neoVI-Pi to your computer via its micro usb port. Plug in DC power to the barrel jack as well. Once it's plugged in, run RPIboot.exe. The CMD terminal will come up and run a script. Once it's done it will close (only a few seconds). Once the terminal closes the Pi will look like a storage device on windows. Then, we want to open up the Raspberry Pi Imager to flash the OS. For the operating system, we want Raspberry Pi OS (64 bit). This OS can be found in the “Other” dropdown menu. In the “Storage” option click on your raspberry pi. Then the last thing is settings (Gear Icon). This is where you can set local passwords and permissions. This can be left alone. Once all of that is set, you can click “Write” and the computer will start flashing the OS onto Pi. This will take a while.
 
-<figure><img src="../.gitbook/assets/md-bfd602be71b2c1099b91877aed3b41f0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/md-bfd602be71b2c1099b91877aed3b41f0.png" alt=""><figcaption></figcaption></figure>
 
 **Step 4. Enabling USB ports and Overclocking**
 
