@@ -22,6 +22,8 @@ Install **dkms**, the package for **Dynamic Kernel Module Support Framework**. W
 sudo apt install linux-headers-generic build-essential gcc git 
 
 sudo apt-get install dkms
+
+sudo apt install raspberrypi-kernel-headers
 ```
 
 <figure><img src="../.gitbook/assets/dkms-Y.png" alt=""><figcaption></figcaption></figure>
