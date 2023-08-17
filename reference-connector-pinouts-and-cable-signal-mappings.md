@@ -21,7 +21,7 @@ These open-ended pins can be used for a variety of purposes, most commonly, to c
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/33.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/neo VI PI – 1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
