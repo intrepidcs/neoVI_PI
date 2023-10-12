@@ -9,5 +9,6 @@
 * [Software Setup](software-setup/README.md)
   * [Python API](software-setup/python-api.md)
   * [SocketCAN Kernel](software-setup/socketcan-kernel.md)
+* [Control membrane LEDs and Trigger Button](control-membrane-leds-and-trigger-button.md)
 * [Reference: Connector Pinouts and Cable Signal Mappings](reference-connector-pinouts-and-cable-signal-mappings.md)
 * [Support Contact Information](support-contact-information.md)
