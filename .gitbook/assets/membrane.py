@@ -25,10 +25,10 @@ LED_OFF = 0x00
 LED_SL_HALF_CURRENT = 0x02
 
 #The LED map
-led_map = [0x00] * NUMBER_OF_RGB_LEDS
+led_map = [0x00] * NUMBER_OF_LEDS
 
 #For each LED, set OUT to 1 and set SL to Imax/2
-led_ctrl = [LED_ON | LED_SL_HALF_CURRENT] * NUMBER_OF_RGB_LEDS
+led_ctrl = [LED_ON | LED_SL_HALF_CURRENT] * NUMBER_OF_LEDS
 
 CONNECT_TO_PC_LED = 0
 MULTI_LED = 5
