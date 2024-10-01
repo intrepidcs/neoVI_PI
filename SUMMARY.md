@@ -8,6 +8,7 @@
 * [Disassemble & Reassemble neoVI PI](disassemble-and-reassemble-neovi-pi.md)
 * [Software Setup](software-setup/README.md)
   * [Python API](software-setup/python-api.md)
+  * [Python ICS and VspyX installation](software-setup/python-ics-and-vspyx-installation.md)
   * [SocketCAN Kernel](software-setup/socketcan-kernel.md)
 * [Control membrane LEDs and Trigger Button](control-membrane-leds-and-trigger-button.md)
 * [Reference: Connector Pinouts and Cable Signal Mappings](reference-connector-pinouts-and-cable-signal-mappings.md)

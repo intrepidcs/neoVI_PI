@@ -23,7 +23,8 @@ Check to see if you have install all dependencies
 
 <pre><code>cd libicsneo/
 <strong>git submodule update — recursive — init
-</strong>sudo apt install build-essential ninja cmake libusb</code></pre>
+</strong>sudo apt install build-essential ninja cmake libusb
+</code></pre>
 
 <figure><img src="../.gitbook/assets/1_I2zy9GTN-igUQo8x1LWcMw (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -35,19 +36,7 @@ mkdir -p build && cd build && cmake .. & make
 
 <figure><img src="../.gitbook/assets/1_XPPVAwkOetDp6ns6EqK6rA.png" alt=""><figcaption></figcaption></figure>
 
-#### **Installing python\_ics** <a href="#e980" id="e980"></a>
-
-To install python\_ics you can use either of this command
-
-```
-sudo python3 -m pip install python_ics 
-```
-
-or
-
-```
-sudo pip3 install python_ics
-```
+#### Python\_ics usage
 
 Create a new Python project and copy paste the example code from the python\_ics or you can download the **open\_device\_example.py** from github page [https://github.com/intrepidcs/python\_ics/blob/master/examples/open\_device\_example.py](https://github.com/intrepidcs/python\_ics/blob/master/examples/open\_device\_example.py)
 
@@ -76,7 +65,7 @@ def receive_can(device):
        print('\tArbID: {}\tData: {}'.format(hex(m.ArbIDOrHeader), [hex(x) for x in m.Data]))
 ```
 
-#### Transmit Messages <a href="#632c" id="632c"></a>
+#### Transmit Messages <a href="#id-632c" id="id-632c"></a>
 
 Use this function to Transmit CAN messages
 
