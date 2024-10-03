@@ -49,6 +49,6 @@ The second way to use it without activating the environment but still using it:
 sudo $HOME/.pyenv/versions/xlib_env/bin/python myscript.py
 ```
 
-To use xlib you will need a valid licence from ICS, so if you do not have one please contact ICS support.
+To use xlib you will need a valid licence from ICS, so if you do not have one please contact [ICS support](mailto:icssupport@intrepidcs.com).
 
 ICS-python is free to use without any licenses.
