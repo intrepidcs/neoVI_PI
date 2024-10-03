@@ -22,7 +22,9 @@ neoVI PI — A Guided Tour
 
 ### **6.** [Software Setup](software-setup/)
 
-### **7.** [Reference: Connector Pinouts and Cable Signal Mappings](reference-connector-pinouts-and-cable-signal-mappings.md)
+### 7. [Control membrane LEDs and Trigger Button](control-membrane-leds-and-trigger-button.md)
 
-### 8. [Support Contact Information](support-contact-information.md)
+### **8.** [Reference: Connector Pinouts and Cable Signal Mappings](reference-connector-pinouts-and-cable-signal-mappings.md)
+
+### 9. [Support Contact Information](support-contact-information.md)
 
