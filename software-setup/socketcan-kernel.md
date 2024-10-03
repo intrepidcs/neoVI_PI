@@ -8,13 +8,13 @@ Intrepid Control Systems introduced an Open Source API called Libicsneo. This ca
 
 In this tutorial you will learn how to set up the Intrepid SocketCAN kernel module on your Raspberry Pi 4 to work with any Intrepid tool such as ValueCAN 4 series. Please reference the documentation for a list of supported hardware. We will be using [ValueCAN 4–2](https://www.intrepidcs.com/products/vehicle-network-adapters/valuecan-4/valuecan-4-2-overview/) that includes two channels of CAN or CAN FD.&#x20;
 
-#### **Hardware Setup**
+### **Hardware Setup**
 
 Connect ValueCAN 4–2 using DB-9F to OBD-II cable to [neoOBD2 Simulator](https://www.intrepidcs.com/products/ecu-simulators/neoobd2-sim/) (optional) to receive or transmit CAN or CAN FD messages instead of a car.
 
 <figure><img src="../.gitbook/assets/1QnNZKQo4ZByo8utFJXX3rg.png" alt=""><figcaption></figcaption></figure>
 
-Open **Terminal**&#x20;
+#### Open **Terminal**&#x20;
 
 Install **dkms**, the package for **Dynamic Kernel Module Support Framework**. We need the dkms package for Raspberry Pi because it doesn’t have a kernel header. On Ubuntu, this is accomplished by running:&#x20;
 
@@ -28,7 +28,7 @@ sudo apt install raspberrypi-kernel-headers
 
 <figure><img src="../.gitbook/assets/dkms-Y.png" alt=""><figcaption></figcaption></figure>
 
-**Clone Intrepid SocketCAN Kernel Module** from [www.github.com/intrepidcs](http://www.github.com/intrepidcs)
+#### **Clone Intrepid SocketCAN Kernel Module** from [www.github.com/intrepidcs](http://www.github.com/intrepidcs)
 
 ```bash
 git clone https://github.com/intrepidcs/intrepid-socketcan-kernel-module.git
@@ -42,7 +42,7 @@ Go to the module directory by using:
 cd intrepid-socketcan-kernel-module
 ```
 
-**Make the project to build the KO file** by using the command make
+#### **Make the project to build the KO file** by using the command make
 
 ```bash
 make
@@ -91,7 +91,7 @@ Switch into the cloned directory, `cd icsscand` and **make a build directory** a
 
 <figure><img src="../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
-**Invoke CMake**,
+#### **Invoke CMake**,
 
 ```bash
 cmake .. -DCMAKE_BUILD_TYPE=Release 
@@ -99,7 +99,7 @@ cmake .. -DCMAKE_BUILD_TYPE=Release
 
 <figure><img src="../.gitbook/assets/Screenshot-from-2020-08-12-14-20-33.png" alt=""><figcaption></figcaption></figure>
 
-**Build the daemon**, using the command make
+#### **Build the daemon**, using the command make
 
 <figure><img src="../.gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
 
@@ -123,7 +123,7 @@ You can now use any SocketCAN application with this interface. A good package fo
 
 <figure><img src="../.gitbook/assets/Screenshot-from-2020-08-12-15-21-34.png" alt=""><figcaption></figcaption></figure>
 
-**So to recap:**&#x20;
+#### **So to recap:**&#x20;
 
 Install **Intrepid SocketCAN Kernel Module**&#x20;
 

@@ -2,7 +2,7 @@
 
 ### 6. Python ICS installation <a href="#c893" id="c893"></a>
 
-## Install ICS software on pi
+### Install ICS software on pi
 
 ### About
 

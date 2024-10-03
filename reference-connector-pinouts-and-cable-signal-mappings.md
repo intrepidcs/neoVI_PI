@@ -1,6 +1,6 @@
 # Reference: Connector Pinouts and Cable Signal Mappings
 
-### 7. Reference: Connector Pinouts and Cable Signal Mappings
+### 8. Reference: Connector Pinouts and Cable Signal Mappings
 
 <div align="left">
 

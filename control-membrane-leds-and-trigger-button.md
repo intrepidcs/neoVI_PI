@@ -1,5 +1,7 @@
 # Control membrane LEDs and Trigger Button
 
+### 7. Control membrane LEDs and Trigger Button
+
 <figure><img src=".gitbook/assets/Image_20230713_153642_753.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
