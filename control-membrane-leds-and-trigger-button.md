@@ -8,7 +8,7 @@
 
 Before you can address the membrane, you will need to activate the `i2c_vc` interface. To do that you need to run the following command:
 
-<pre class="language-python" data-overflow="wrap"><code class="lang-python"><strong>echo "dtparam=i2c_vc=on" | sudo tee -a /boot/config.txt
+<pre class="language-sh" data-overflow="wrap"><code class="lang-sh"><strong>echo "dtparam=i2c_vc=on" | sudo tee -a /boot/config.txt
 </strong></code></pre>
 
 After this you need to reboot the pi, `sudo reboot` will do the job.

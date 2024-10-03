@@ -24,20 +24,20 @@ Run `ls` in your home directory to make sure you can see `install_ics.sh` and `r
 
 In your terminal window run the following 2 commands:
 
-```
+```sh
 sudo chmod +x $HOME/install_ics.sh
 ./install_ics.sh
 ```
 
 It could take up to 20 minutes to complete.
 
-If you see `"Licensing error! Please place a valid license in /home/pi/.vspyx/Licenses"` then the install was successful.
+If you see <mark style="color:red;">`"Licensing error! Please place a valid license in /home/pi/.vspyx/Licenses"`</mark> then the installation was successful.
 
 ### Usage
 
 There are two ways of using the environment. First one is to activate it with pyenv:
 
-```
+```sh
 pyenv activate xlib_env
 ```
 
@@ -45,7 +45,7 @@ Then just use `python myscript.py`.
 
 The second way to use it without activating the environment but still using it:
 
-```
+```shell
 sudo $HOME/.pyenv/versions/xlib_env/bin/python myscript.py
 ```
 
