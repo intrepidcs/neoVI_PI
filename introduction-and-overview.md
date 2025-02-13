@@ -53,7 +53,7 @@ This section includes a summary of the device’s most important design, constru
 
 **2.4.1. Construction, Controls and Cabling**
 
-* Temperature range: -30°C to +80°C&#x20;
+* Temperature range: -20°C to +80°C&#x20;
 * Dimensions: 13.60cm by 11.22cm by 3.97cm
 * LEDs (user programmable): 10 programmable tri-color LEDs&#x20;
 * Power supply: 5-60V operation
@@ -97,7 +97,7 @@ High-speed isolated Ethernet connection protects PC from potential damage.
 
 #### 2.4.6. Advanced Features&#x20;
 
-* Device control by external software using Open source APIs on github/intrepidcs: libicsneo ([https://github.com/intrepidcs/libicsneo](https://github.com/intrepidcs/libicsneo)) for C/C++ and python\_ics for Python [https://github.com/intrepidcs/python\_ics](https://github.com/intrepidcs/python\_ics)
+* Device control by external software using Open source APIs on github/intrepidcs: libicsneo ([https://github.com/intrepidcs/libicsneo](https://github.com/intrepidcs/libicsneo)) for C/C++ and python\_ics for Python [https://github.com/intrepidcs/python\_ics](https://github.com/intrepidcs/python_ics)
 
 ### 2.5. Hardware and Software Requirements
 

@@ -14,7 +14,7 @@ The neoVI PI is a complex device that does not contain any user-serviceable part
 
 ### 3.1. Case and Overall Design&#x20;
 
-The neoVI PI is enclosed in a sturdy black-anodized metal case. The device has been designed and tested for in-vehicle use, and is operational in a temperature range from -40°C to +85°C. An overall view of the neoVI PI can be seen in Figure 3.&#x20;
+The neoVI PI is enclosed in a sturdy black-anodized metal case. The device has been designed and tested for in-vehicle use, and is operational in a temperature range from -20°C to +85°C. An overall view of the neoVI PI can be seen in Figure 3.&#x20;
 
 Connectors and ports are often a point of failure with hardware devices. To ensure that the neoVI PI provides you with years of reliable service, Intrepid has ruggedized the physical interfaces on the device by using reinforced metal connectors.
 
